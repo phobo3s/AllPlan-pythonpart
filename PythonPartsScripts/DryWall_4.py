@@ -1,19 +1,6 @@
 """
 Script for Drywall
-         ________
-       /| 6    / |7
-      / |     /  |
-     ________    |
-  5 |   |    |4  |
-    |   |    |   |
-    |   |    |   |
-    |   |    |   |
-    |   |____|___|
-    |  / 3   |  / 2
-    | /      | /
-    |________|
-   0          1
-Script for Line3DInteractor
+With script for Line3DInteractor
 
 """
 import math
