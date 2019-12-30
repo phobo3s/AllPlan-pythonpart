@@ -51,23 +51,23 @@
             <Parameter>
                 <Name>Left_Layer1_Type</Name>
                 <Text>Left Outer Layer Type</Text>
-                <Value>Beyaz Alçıpan</Value>
-                <ValueList>Beyaz Alçıpan|Yeşil Alçıpan|Kırmızı Alçıpan</ValueList>
+                <Value>White Drywall</Value>
+                <ValueList>White Drywall|Green Drywall|Red Drywall</ValueList>
                 <ValueType>StringCombobox</ValueType>
                 <Enable>Left_Layer1_Thickness > 0</Enable>
             </Parameter>
             <Parameter>
                 <Name>Left_Layer2_Type</Name>
                 <Text>Left Inner Layer Type</Text>
-                <Value>Beyaz Alçıpan</Value>
-                <ValueList>Beyaz Alçıpan|Yeşil Alçıpan|Kırmızı Alçıpan</ValueList>
+                <Value>Red Drywall</Value>
+                <ValueList>White Drywall|Green Drywall|Red Drywall</ValueList>
                 <ValueType>StringCombobox</ValueType>
                 <Enable>Left_Layer2_Thickness > 0</Enable>
             </Parameter>
             <Parameter>
                 <Name>Right_Layer1_Type</Name>
                 <Text>Right Outer Layer Type</Text>
-                <Value>Beyaz Alçıpan</Value>
+                <Value>White Drywall</Value>
                 <ValueList>Beyaz Alçıpan|Yeşil Alçıpan|Kırmızı Alçıpan</ValueList>
                 <ValueType>StringCombobox</ValueType>
                 <Enable>Right_Layer1_Thickness > 0</Enable>
@@ -75,8 +75,8 @@
             <Parameter>
                 <Name>Right_Layer2_Type</Name>
                 <Text>Right Inner Layer Type</Text>
-                <Value>Beyaz Alçıpan</Value>
-                <ValueList>Beyaz Alçıpan|Yeşil Alçıpan|Kırmızı Alçıpan</ValueList>
+                <Value>Green Drywall</Value>
+                <ValueList>White Drywall|Green Drywall|Red Drywall</ValueList>
                 <ValueType>StringCombobox</ValueType>
                 <Enable>Right_Layer2_Thickness > 0</Enable>
             </Parameter>
